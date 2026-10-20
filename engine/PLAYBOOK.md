@@ -21,5 +21,10 @@ Pinterest boards: "College Budget & Money Tips", "Student Spreadsheet Templates"
    - Instagram: REEL 2/day at 12:30, 19:30
    - TikTok (if connected): same videos 2/day at 12:30, 19:30, tiktokData title = hook
    - YouTube (if connected): type "short", madeForKids false, title = hook (≤95 chars)
-   Captions end with "Full College Money Toolkit at the link in bio." + hashtags.
+   LINK RULE: every post must carry https://payhip.com/b/Mm2Uu:
+   - Pinterest: pinLink = store URL
+   - Instagram: caption line "Get the College Money Toolkit at the link in bio 🔗 payhip.com/b/Mm2Uu" AND firstCommentText "Get the College Money Toolkit 👉 https://payhip.com/b/Mm2Uu"
+   - YouTube: description line "Get the College Money Toolkit (Excel + Google Sheets): https://payhip.com/b/Mm2Uu"
+   - TikTok: caption line "Link in bio 🔗 payhip.com/b/Mm2Uu"
+   Then hashtags. Before finishing, re-read next week's scheduled posts and confirm every one contains the link.
 8. Report: 5 lines — last week's best/worst post, totals, what changed this week, anything broken (disconnected network, failed posts).
